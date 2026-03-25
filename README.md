@@ -53,7 +53,7 @@ A curated list of awesome papers, open-source datasets, and resources related to
 BONES-SEED (Skeletal Everyday Embodiment Dataset) is an open dataset of 142,220 annotated human motion animations for humanoid robotics. It provides motion capture data in SOMA and Unitree G1 formats, with natural language descriptions, temporal segmentation, and detailed skeletal metadata.
 
 
-**EgoVerse**  [\[Link\]](https://egoverse.ai/)
+**EgoVerse**  [\[Link\]](https://egoverse.ai/)  
 *Publisher: The EgoVerse Consortium*  
 The current release (Mar 2026) includes 1,362 hours (80k episodes) of human demonstrations spanning 1,965 tasks, 240 scenes, and 2,087 unique demonstrators, with standardized formats, manipulation-relevant annotations, and tooling for downstream learning. All data are unified into a shared dataset with egocentric video, 3D hand poses, camera motion, and task descriptions across diverse tasks and scenes. 
 
