@@ -1,1 +1,0 @@
-# Awesome-World-Models-for-Physical-AI
